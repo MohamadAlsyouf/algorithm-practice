@@ -1,2 +1,2 @@
 # algorithm-practice
-A repository to track practice algorithm solutions
+A repository to track algorithmic solutions
